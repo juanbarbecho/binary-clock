@@ -32,10 +32,3 @@ You can also manually input the time in HH:MM:SS format directly into the termin
 ```bash
 ./clock
 ```
-**Contributing**
-
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
-
-**Acknowledgments**
-
-Thank you to the creators of the ncurses library for providing an easy way to handle terminal graphics.
